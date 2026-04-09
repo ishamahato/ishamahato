@@ -6,14 +6,16 @@
 
 ---
 
+
 ## 🚀 About Me
 
-AI & Machine Learning enthusiast with strong interest in solving real-world problems.
+💡 Computer Engineering student passionate about AI, Machine Learning, and solving real-world problems.
 
-* 🔭 Currently working on: NLP & Machine Learning Projects
-* 🌱 Currently learning: Data Structures, Deep Learning
-* 👯 Looking to collaborate on: Open Source & AI Projects
-* 🤔 Exploring: Generative AI & LLMs
+- 🔭 Currently building: NLP & Machine Learning projects  
+- 🌱 Learning: Data Structures, Deep Learning  
+- 🤝 Open to: Open Source & AI collaborations  
+- 🚀 Goal: To become a Machine Learning Engineer  
+- 🧠 Exploring: Generative AI & LLMs  
 
 ---
 
