@@ -56,11 +56,6 @@ Git | GitHub | VS Code
 
 ## 📫 Connect with Me
 
-* 📧 Email: [ishamahato9813@gmail.com]
-* 💼 (https://www.linkedin.com/in/mahatoisha/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B88%2FY%2FdlCTHCtyUmRHhAlmA%3D%3D)
----
-## 📫 Connect with Me
-
 💬 I'm always open to collaborating on innovative projects and discussing new ideas in AI, ML, and development.
 
 - 🔗 LinkedIn:  [(https://www.linkedin.com/in/mahatoisha/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPhyvnJZdRRy6Rfn7h3uKEQ%3D%3D)-]
