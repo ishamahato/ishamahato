@@ -1,16 +1,6 @@
 ## Hi there 👋
 
-<!--
-## Hi, I'm Isha Mahato 👋  
-🎓 Computer Engineering Student (3rd Year)  
-💻 Interested in AI | ML | NLP | Web Development  
-🚀 Passionate about building real-world projects
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on - 🔭 Currently working on: NLP / ML projects  
-- 🌱 Currently learning: Data Structures, Machine Learning  
-- 👯 Looking to collaborate on: Open Source & AI projects  
-- 🤔 Looking for help with: Advanced ML concepts  - 🌱 I’m currently learning ...
+<!--..
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
