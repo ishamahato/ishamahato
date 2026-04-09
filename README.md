@@ -6,8 +6,9 @@
 
 ---
 
-
 ## 🚀 About Me
+
+🎯 Focused on building impactful AI solutions and improving problem-solving skills.
 
 💡 Computer Engineering student passionate about AI, Machine Learning, and solving real-world problems.
 
