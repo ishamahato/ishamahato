@@ -40,39 +40,7 @@
 - Git & GitHub
 - VS Code
 - Google Colab
-
-## 📌 Projects
-🔹 1. car-review-nlp
-🚗 Car Review Sentiment Analysis (NLP)
-- Built using Python, NLP techniques
-- Performs sentiment classification on car reviews
-- Used preprocessing, tokenization, and ML models
 - 
-🔹 2. netflix-data-analysis
-📊 Netflix Data Analysis Project
-- Analyzed 1990s Netflix dataset using Pandas & Matplotlib
-- Visualized trends, genres, and patterns
-- Improved data storytelling skills
-
-- 
-🔹 3. NoteNestApp
-📝 NoteNest - Notes Web App
-- Built using JavaScript
-- Create, edit, and delete notes
-- Simple UI for productivity
-
-- 
-🔹 4. starter-uvicorn
-⚡ FastAPI Starter with Uvicorn
-- Backend setup using Python FastAPI
-- Learned API creation and server deployment
-- 
-🔹 5. PersonalStaticSite
-🌐 Personal Portfolio Website
-- Built with HTML & CSS
-- Showcases projects and skills
-
-  
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ishamahato&show_icons=true&theme=tokyonight)
 
