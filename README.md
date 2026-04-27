@@ -1,7 +1,7 @@
 # Hi 👋, I'm Isha Mahato
 
 🎓 Computer Engineering Student
-💻 AI | ML | NLP Enthusiast
+💻 AI|ML|Enthusiast
 🚀 Passionate about building real-world projects
 
 ---
