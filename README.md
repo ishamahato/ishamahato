@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isha Mahato</h1>
 
-<h3 align="center">A passionate Full Stack Developer from Nepal 🇳🇵</h3>
+<h3 align="center">A passionate Full Stack Developer 🇳🇵</h3>
 
 - 🔭 I’m currently working on **personal projects**
 - 🌱 I’m currently learning **Full Stack Development & Gen AI**
