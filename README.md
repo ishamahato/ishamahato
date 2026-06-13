@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Full Stack Developer 🇳🇵</h3>
 
-- 🔭 I’m currently working on **personal projects**
+- 🔭 I’m currently working on **NLP projects**
 - 🌱 I’m currently learning **Full Stack Development & Gen AI**
 - 👯 I’m looking to collaborate on **projects**
 - 💬 Ask me about **Java, HTML, CSS, JavaScript, Tailwind CSS, React.js, Node.js, Express.js, MongoDB, Mongoose, MySQL, C/C++**
