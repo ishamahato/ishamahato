@@ -1,54 +1,30 @@
-# Hi 👋, I'm Isha Mahato
+<h1 align="center">Hi 👋, I'm Isha Mahato</h1>
 
-🎓 Computer Engineering Student
-🚀 Passionate about building real-world projects
+<h3 align="center">A passionate Full Stack Developer from Nepal 🇳🇵</h3>
 
----
+- 🔭 I’m currently working on **personal projects**
+- 🌱 I’m currently learning **Full Stack Development & Gen AI**
+- 👯 I’m looking to collaborate on **projects**
+- 💬 Ask me about **Java, HTML, CSS, JavaScript, Tailwind CSS, React.js, Node.js, Express.js, MongoDB, Mongoose, MySQL, C/C++**
+- 📫 How to reach me: **ishamahato9813@gmail.com**
+- ⚡ Fun fact: **I love travelling ✈️**
 
-## 🚀 About Me
+<h3 align="left">Connect with me:</h3>
 
-🎯 Focused on building impactful AI solutions and improving problem-solving skills.
+<p align="left">
+<a href="https://www.linkedin.com/in/mahatoisha/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+</a>
 
-💡 Computer Engineering student passionate about AI, Machine Learning, and solving real-world problems.
+<a href="mailto:ishamahato9813@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail" width="40" height="40"/>
+</a>
+</p>
 
-- 🔭 Currently building: NLP & Machine Learning projects  
-- 🌱 Learning: Data Structures, Deep Learning  
-- 🤝 Open to: Open Source & AI collaborations  
-- 🚀 Goal: To become a Machine Learning Engineer  
-- 🧠 Exploring: Generative AI & LLMs  
+<h3 align="left">Languages and Tools:</h3>
 
----
+<p align="left">
+<img src="https://skillicons.dev/icons?i=arduino,c,cpp,css,express,figma,git,html,java,js,linux,matlab,mongodb,mysql,nodejs,postman,python,sqlite,tailwind" />
+</p>
 
-## 🛠️ Skills & Technologies
 
-💻 Programming Languages:
-- Python
-- Java
-- JavaScript
-
-🌐 Web Development:
-- HTML, CSS
-- React.js (Basic)
-
-📊 Data & AI:
-- Machine Learning (Basics)
-- NLP (Natural Language Processing)
-- Pandas, NumPy
-
-⚙️ Tools & Platforms:
-- Git & GitHub
-- VS Code
-- Google Colab
-- 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ishamahato&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishamahato&layout=compact&theme=tokyonight)
----
-
-## 📫 Connect with Me
-
-💬 I'm always open to collaborating on innovative projects and discussing new ideas in AI, ML, and development.
-
-- 🔗 LinkedIn:  [(https://www.linkedin.com/in/mahatoisha/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPhyvnJZdRRy6Rfn7h3uKEQ%3D%3D)-]
--  📧 Email: ishamahato9813@gmail.com 
