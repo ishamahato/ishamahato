@@ -6,9 +6,14 @@ Passionate about building innovative software solutions and continuously learnin
 
 [
 
-![EMAIL](https://img.shields.io/badge/EMAIL-red?style=for-the-badge)
+![EMAIL](https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=gmail&logoColor=white)
 
 ](mailto:ishamahato9813@gmail.com)
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://www.linkedin.com/in/mahatoisha/)
 
 ---
 
@@ -29,6 +34,7 @@ I'm Isha Mahato, a final year Computer Science & Engineering student at NIT Silc
 ## 🛠️ Tech Stack
 
 ### Languages
+
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -58,6 +64,7 @@ I'm Isha Mahato, a final year Computer Science & Engineering student at NIT Silc
 ### Frontend
 
 
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
@@ -80,6 +87,7 @@ I'm Isha Mahato, a final year Computer Science & Engineering student at NIT Silc
 ### Backend
 
 
+
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 
@@ -97,6 +105,7 @@ I'm Isha Mahato, a final year Computer Science & Engineering student at NIT Silc
 ### AI & Machine Learning
 
 
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 
@@ -112,6 +121,7 @@ I'm Isha Mahato, a final year Computer Science & Engineering student at NIT Silc
 
 
 ### Database
+
 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -134,6 +144,7 @@ I'm Isha Mahato, a final year Computer Science & Engineering student at NIT Silc
 
 
 ### Tools
+
 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -179,5 +190,10 @@ I'm Isha Mahato, a final year Computer Science & Engineering student at NIT Silc
 
 ---
 
-*Open to internships, collaborations, and exciting opportunities 🚀*
+### 💼 Let's Connect & Build Something Amazing Together!
+
+> 🚀 Open to **internships**, **collaborations**, and **exciting opportunities** — feel free to reach out!
+
+
+
 
