@@ -1,110 +1,183 @@
-<div align="center">
-
 # Hi, I'm Isha Mahato 👋
 
-### Computer Science Student • Aspiring Software Developer
+**Computer Science & Engineering Student • Aspiring Full Stack Developer**
 
 Passionate about building innovative software solutions and continuously learning modern technologies.
 
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:ishamahato9813@gmail.com)
+[
 
-</div>
+![EMAIL](https://img.shields.io/badge/EMAIL-red?style=for-the-badge)
+
+](mailto:ishamahato9813@gmail.com)
 
 ---
 
 ## About Me
 
-I'm Isha Mahato, a Computer Science student passionate about software development, artificial intelligence, and continuous learning.
+I'm Isha Mahato, a final year Computer Science & Engineering student at NIT Silchar, passionate about full stack development, artificial intelligence, and continuous learning.
 
-- 🔭 I’m currently working on NLP projects
-- 🌱 I’m currently learning Full Stack Development, Generative AI, and Machine Learning (ML)
-- 👯 I’m looking to collaborate on exciting projects
-- 💡 Interested in AI, Web Development, and Software Engineering
+- 🔭 I'm currently working on NLP projects
+- 🌱 I'm currently learning **Machine Learning (ML)**
+- 👯 I'm looking to collaborate on exciting projects
+- 💡 Interested in **Full Stack Development**, AI, and Software Engineering
 - 🎯 Focused on improving problem-solving and development skills
-- 📫 Reach me at: **ishamahato9813@gmail.com**
+- 📫 Reach me at: [ishamahato9813@gmail.com](mailto:ishamahato9813@gmail.com)
 - ⚡ Fun fact: I love travelling ✈️
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+
+
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+
+
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+
+
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+
+
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+
 
 ### AI & Machine Learning
 
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+
+
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+
+
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+
 
 ### Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+
+
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
 
-![Isha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![Isha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishamahato&show_icons=true&theme=radical)
 
-</div>
 
----
 
-## Contribution Streak
 
-<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishamahato&layout=compact&theme=radical)
 
-</div>
 
----
 
-## Featured Projects
+[
 
-### 🚀 Medical AI Assistant
-AI-powered healthcare assistant using Generative AI.
+![GitHub Streak](https://streak-stats.demolab.com?user=ishamahato&theme=radical)
 
-### 🧠 NLP Projects
-Natural Language Processing projects for text analysis and AI applications.
-
-### 🌐 Portfolio Website
-Personal portfolio showcasing projects, skills, and achievements.
+](https://git.io/streak-stats)
 
 ---
 
-<div align="center">
+*Open to internships, collaborations, and exciting opportunities 🚀*
 
-### Open to internships, collaborations, and exciting opportunities 🚀
-
-⭐ Thanks for visiting my profile!
-
-</div>
