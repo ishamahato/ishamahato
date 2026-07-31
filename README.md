@@ -12,14 +12,13 @@ Passionate about building innovative software solutions and continuously learnin
   <a href="https://www.linkedin.com/in/mahatoisha/">
     <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-<div align="center">
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/u/ishamahato/">
-    <img src="https://leetcard.jacoblin.cool/ishamahato?theme=light&font=Baloo%202&ext=heatmap" alt="Isha Mahato's LeetCode stats" />
+    <img alt="leetcode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </div>
 
----
+------
 
 ## About Me
 
