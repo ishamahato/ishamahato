@@ -23,11 +23,9 @@ Passionate about building innovative software solutions and continuously learnin
 ## About Me
 
 I'm Isha Mahato, a final year Computer Science & Engineering student at NIT Silchar, passionate about full stack development, artificial intelligence, and continuous learning.
-
-- 🔭 I'm currently working on NLP projects
 - 🌱 I'm currently learning **Machine Learning (ML)**
 - 👯 I'm looking to collaborate on exciting projects
-- 💡 Interested in **Full Stack Development**, AI, and Software Engineering
+- 💡 Interested in **Full Stack Development**, AI
 - 🎯 Focused on improving problem-solving and development skills
 - 📫 Reach me at: [ishamahato9813@gmail.com](mailto:ishamahato9813@gmail.com)
 - ⚡ Fun fact: I love travelling ✈️
