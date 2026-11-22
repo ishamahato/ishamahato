@@ -13,9 +13,8 @@ Passionate about building innovative software solutions and continuously learnin
     <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/ishamahato/">
-    <img alt="leetcode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+  \faCode\ \href{https://leetcode.com/u/ishamahato/}
+{\textcolor{blue}{LeetCode}} </a>
 </div>
 
 ------
