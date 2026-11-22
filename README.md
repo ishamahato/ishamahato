@@ -3,7 +3,6 @@
 **Computer Science & Engineering Student • Aspiring Full Stack Developer**
 
 Passionate about building innovative software solutions and continuously learning modern technologies.
-
 <div align="center">
   <a href="mailto:ishamahato9813@gmail.com">
     <img alt="email" src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -13,12 +12,11 @@ Passionate about building innovative software solutions and continuously learnin
     <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  \faCode\ \href{https://leetcode.com/u/ishamahato/}
-{\textcolor{blue}{LeetCode}} </a>
+  <a href="https://leetcode.com/u/ishamahato/">
+    <img alt="leetcode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </div>
-
 ------
-
 ## About Me
 
 I'm Isha Mahato, a final year Computer Science & Engineering student at NIT Silchar, passionate about full stack development, artificial intelligence, and continuous learning.
